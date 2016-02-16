@@ -1,0 +1,28 @@
+name: 15Post
+favicon: null
+layout_spectrum: 0.43659105827100575
+typography_spectrum: 0.927918239729479
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.9578518776688725
+  lightness: 0.8684091083705425
+  saturation: 0.6901652468368411
+  rhythmicContrast: 0.4449782290030271
+purpose: []
